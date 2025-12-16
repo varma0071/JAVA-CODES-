@@ -1,3 +1,4 @@
+//Adding of two numbers by using the scanner classes
 import java.util.*;
 class Demo {
     public static void main (String[] args ) {
@@ -8,4 +9,5 @@ class Demo {
         int num2 = sc.nextInt();
         System.out.print("Sum is : " + (num + num2));
     }
+
 }
