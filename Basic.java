@@ -1,3 +1,6 @@
+//The String is palindrome or not.
+//A Palindrome program checks whether a given string or number reads the same forward and backward.
+
 import java.util.*;
 class Basic {
     public static void main(String[] args) {
@@ -19,4 +22,5 @@ class Basic {
         system.out.print("Enter string: ");
         String sc = sc.nextline(); 
     }
+
 }
